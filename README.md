@@ -14,9 +14,9 @@ npm run dev
 ```
 
 ## Screenshots
-![Screenshot1](./screenshots/ss1.png)
+![Screenshot1](public/screenshots/ss1.png)
 
 <br>
 
-![Screenshot2](./screenshots/ss2.png)
+![Screenshot2](public/screenshots/ss2.png)
 
